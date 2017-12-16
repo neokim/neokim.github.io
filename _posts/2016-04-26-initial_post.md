@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2016-04-26 18:36:00
 title:  "GitHub Pages와 Jekyll을 사용한 블로그 준비"
 ---
 
